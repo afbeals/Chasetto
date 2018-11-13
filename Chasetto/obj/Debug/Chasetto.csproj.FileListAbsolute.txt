@@ -1,0 +1,15 @@
+R:\Other\Programming\C#\Chasetto\Chasetto\bin\Debug\Chasetto.exe.config
+R:\Other\Programming\C#\Chasetto\Chasetto\bin\Debug\Chasetto.exe
+R:\Other\Programming\C#\Chasetto\Chasetto\bin\Debug\Chasetto.pdb
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.csprojAssemblyReference.cache
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\MainWindow.g.cs
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\App.g.cs
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto_MarkupCompile.cache
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto_MarkupCompile.lref
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\MainWindow.baml
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.g.resources
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.Properties.Resources.resources
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.csproj.GenerateResource.cache
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.csproj.CoreCompileInputs.cache
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.exe
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.pdb
