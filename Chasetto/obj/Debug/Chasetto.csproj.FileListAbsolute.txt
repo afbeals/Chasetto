@@ -13,3 +13,6 @@ R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.csproj.GenerateReso
 R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.csproj.CoreCompileInputs.cache
 R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.exe
 R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.pdb
+R:\Other\Programming\C#\Chasetto\Chasetto\bin\Debug\PropertyChanged.dll
+R:\Other\Programming\C#\Chasetto\Chasetto\bin\Debug\PropertyChanged.xml
+R:\Other\Programming\C#\Chasetto\Chasetto\obj\Debug\Chasetto.csproj.CopyComplete
